@@ -4,6 +4,7 @@ Security subjects : Certificates / Authentication management
 
 ## Cert managers
 https://cert-manager.io/docs/installation/
+https://medium.com/geekculture/aks-with-cert-manager-f24786e87b20
 https://medium.com/avmconsulting-blog/encrypting-the-certificate-for-kubernetes-lets-encrypt-805d2bf88b2a
 https://certbot.eff.org/instructions?ws=apache&os=ubuntufocal&tab=wildcard
 https://eff-certbot.readthedocs.io/en/stable/using.html#dns-plugins
@@ -16,3 +17,4 @@ https://www.mirantis.com/cloud-native-concepts/getting-started-with-kubernetes/w
 https://devtron.ai/blog/setup-basic-authentication-on-nginx-ingress/
 https://blog.petehouston.com/add-basic-authentication-to-kubernetes-ingress-nginx/
 https://kubernetes.github.io/ingress-nginx/examples/auth/basic/
+https://thenewstack.io/securing-istio-workloads-with-auth0/
